@@ -9,5 +9,5 @@ Currently FHIR Aggregator includes data from:
 - [Genomic Data Commons(GDC)](https://portal.gdc.cancer.gov/)
 - [Genotype-Tissue Expression Portal(GTEx)](https://www.gtexportal.org/home/downloads/adult-gtex/overview)
 - [Human Tumor Atlas Network (HTAN)](https://data.humantumoratlas.org/data-access)
-- [International Cancer Genome Consortium(ICGC)](https://daco.icgc-argo.org/)
+- [International Cancer Genome Consortium(ICGC)](https://www.icgc-argo.org/)
 - [1000 Genomes](https://www.internationalgenome.org/)
